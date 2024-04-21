@@ -1,0 +1,12 @@
+img{
+    width: 200px;
+    border-radius: 75px;
+    margin-right: 20px;
+}
+body{
+    background-image: url(image/prem.jpg);
+    background-repeat: repeat;
+    background-size: 50px;
+    backdrop-filter: blur(3px) brightness(50%);
+    border: 20px solid black;
+}

@@ -1,0 +1,27 @@
+h1{
+    width: 100px;
+    height: 100px;
+    border: 2px;
+    background-color: gold;
+    border-style: dashed;
+    opacity: 0.5;
+    text-align: center;
+}
+h2{
+    width: 100px;
+    height: 100px;
+    border: 2px;
+    background-color: red;
+    border-style: dotted;
+    opacity: 0.5;
+    text-align: center;
+}
+h3{
+    width: 100px;
+    height: 100px;
+    border: 2px;
+    background-color: blue;
+    border-style: double;
+    opacity: 0.5;
+    text-align: center;
+}
